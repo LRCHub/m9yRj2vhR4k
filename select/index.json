@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "匙ノ咒",
+  "base_artist": "r-906",
+  "createdAt": "2026-01-05T16:56:48.783020Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "匙ノ咒 (feat. 初音ミク)",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_匙ノ咒_(feat._初音ミク)_r-906.txt"
+    }
+  ]
+}
